@@ -1,14 +1,5 @@
 {
-  "jobs": {
-    "200676247-3715": {
-      "first_seen": "2026-09-15T09:08:20+00:00",
-      "title": "Store Apps Engineering DevOPs Engineer"
-    },
-    "200678634-3715": {
-      "first_seen": "2026-09-15T09:08:20+00:00",
-      "title": "SDET - Apple Pay Quality Engineer"
-    }
-  },
-  "last_run": "2026-09-30T06:14:21+00:00",
+  "jobs": {},
+  "last_run": "2026-10-01T06:45:08+00:00",
   "version": 2
 }
